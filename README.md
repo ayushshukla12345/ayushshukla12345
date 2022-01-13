@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ayushshukla12345
 - 👀 I’m interested in ... Coding and hacking
 - 🌱 I’m currently learning ...Coding
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...Tele
 - 📫 How to reach me ...no way to reach me
 
 <!---
